@@ -1,4 +1,4 @@
-#FinalExame_604884150
+#Volatility factor
 
 library(data.table)
 library(dplyr)
